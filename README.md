@@ -8,7 +8,7 @@
   在我们想要获取用户的身高体重等信息时，直接让他们输入显然不够友好偶然看到一款App用了类似刻度尺的界面让用户选择，觉得很赞。所有决定实现下。
    实现的最终效果如下图所示:
      
-![7c0d4213-1242-496b-9898-0d04d14f3097.gif](http://upload-images.jianshu.io/upload_images/2825714-9806f47dcab8cff2.gif?imageMogr2/auto-orient/strip)
+![7c0d4213-1242-496b-9898-0d04d14f3097.gif](https://github.com/panacena/RuleView/blob/master/7c0d4213-1242-496b-9898-0d04d14f3097.gif)
 
 ***
 
