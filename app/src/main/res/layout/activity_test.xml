@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/tv_register_info_birthday_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8.0dip"
+        android:includeFontPadding="false"
+        android:maxHeight="30.0sp"
+        android:text="1990"
+        android:textColor="#cc222222"
+        android:textSize="30.0sp"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0">
+
+        <com.zkk.view.RulerView
+            android:id="@+id/ruler_birthday"
+            android:layout_width="fill_parent"
+            android:layout_height="70.0dip"
+            android:layout_marginTop="60.0dip"/>
+
+        <ImageView
+            android:layout_width="24.0dip"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="22.0dip"
+            android:scaleType="fitXY"
+            android:src="@drawable/user_info_ruler_birthday"/>
+    </RelativeLayout>
+
+</LinearLayout>
