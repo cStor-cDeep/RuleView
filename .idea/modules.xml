@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RuleView2.iml" filepath="$PROJECT_DIR$/RuleView2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuleViewGit.iml" filepath="$PROJECT_DIR$/RuleViewGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myruleview/myruleview.iml" filepath="$PROJECT_DIR$/myruleview/myruleview.iml" />
     </modules>
   </component>
 </project>

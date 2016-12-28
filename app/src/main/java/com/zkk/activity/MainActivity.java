@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.zkk.rulerview.R;
-import com.zkk.view.RulerView;
+import com.zkk.view.rulerview.RulerView;
 
 public class MainActivity extends AppCompatActivity {
 

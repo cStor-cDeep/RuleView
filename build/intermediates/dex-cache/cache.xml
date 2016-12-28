@@ -3,111 +3,93 @@
 
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\RuleViewGit\myruleview\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d2ad19ba2c98ae33b67c164cb8727125ffb3929e.jar" />
+        sha1="4cedbbef731e5d9cba1d9d6c6dd6075353428b47">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\RuleViewGit-myruleview-unspecified_e9b6ed3f906ae56b98abfb91cf9d087850ec5c01.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_442a51372390d1b5f902b3a41f74fc7d8b4e9aed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c72bab533e5b5e582d37b364b1085d5816bc0356.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9204a989bc518aa110490e8c1e3dbefdba53c84b.jar" />
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c80b1e127c1ab757afd9a6b6f85653ed40e4df79.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8f4323122ae3e406d1523223faf6ddd261b8a749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_64c516143dac3f09a8abe739b2527caa4fe990b9.jar" />
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0de940ec5c490b1d50edfaf2eeb7b95ee8681150.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_dd52a829be8f9e0d97318cc5ca53841a19d69ed5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7da5b182a1c694aaeba4d33f75f3acfdc6e25a04.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_55ecf95bdcc896181c412d5c9f12c24f1504010d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ae7e203b0f7252c1d1c65ac3aae54cd4b36901d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d3e8993da2bd5786982087ee6fad6ad0c3ef0f4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_6ac47a9487bc5de29bbe34a1b902b9a0d176cafd.jar" />
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_8d31b29c82e42cc03c40aaea03370fcbff2e970f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1280a8ac4e47a1070673d3baec5b1bae9c3872ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_700f0c382625055047f8ad4299e7af3394371195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_b28c0c9e68b28d262459c5c353380b46d75dcc92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6e4cbef0649d0b6661ed70cd466e8466c4c7ac92.jar" />
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_27b5984b244d5b68fbb2ab8b867525f275122c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_a308828b2f8a82a0b3aaaa63c455b14c655c5f2c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,25 +98,52 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_302013ac1b9756137b559b3834435b7206974e54.jar" />
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_302013ac1b9756137b559b3834435b7206974e54.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_08174c763d10f4a4398c7fe62966b74b7adf1640.jar" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_9bd4354ee841ae0a9d3eff1a55e6a66047322fae.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\workspace\android-workspace\RuleView2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_00a6859f2cbc97af86d059d5f1a5e388bf10457f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\workspace\android-workspace\RuleView2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0a1f40bc1e9afb46d2335a80979a77fb10aaf864.jar" />
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a3db03b857510af0dfda2259ea4d0763329ae61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_67fb31c1b9e19dd932455edb7ad7b352a9a2b73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\workspace\android-workspace\RuleViewGit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_23bb62715480633545525bfc71ec0399541d8f9b.jar" />
     </item>
 
 </items>
