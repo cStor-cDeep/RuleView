@@ -1,0 +1,50 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+publish {
+    userOrg = 'panacena'      //Bintray注册的用户名
+    /*
+     *  compile 'com.android.support:appcompat-v7:24.0.0'
+    */
+    groupId = 'com.zkk.view'         //compile引用时的groupId 形如 com.android.support
+    artifactId = 'ZkkRulerView'     //compile引用时的项目名  形如 appcompat-v7
+    publishVersion = '1.0.0'    //compile引用时的版本号   形如 24.0.0
+    desc = 'Android自定义标尺控件(选择身高、体重等)' //描述
+    website = 'https://github.com/panacena/RuleView' //可以填写  git地址
+}
+tasks.withType(Javadoc) {
+    options{ encoding "UTF-8"
+        charSet 'UTF-8'
+        links "http://docs.oracle.com/javase/7/docs/api"
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:24+'
+    testCompile 'junit:junit:4.12'
+}
