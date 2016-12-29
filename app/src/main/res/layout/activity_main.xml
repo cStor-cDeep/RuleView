@@ -65,7 +65,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="58.0dip"
                 android:layout_marginTop="24.0dip"
-
                 app:alphaEnable="true"
                 app:lineColor="@color/gray"
                 app:lineMaxHeight="40dp"
